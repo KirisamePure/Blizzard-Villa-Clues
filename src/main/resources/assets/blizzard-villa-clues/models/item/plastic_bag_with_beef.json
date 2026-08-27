@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "blizzard-villa-clues:item/plastic_bag_with_beef"
+  }
+}
