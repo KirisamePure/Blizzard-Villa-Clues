@@ -2,6 +2,7 @@ package com.fxw.blizzardvillaclues.ModItems;
 
 import com.fxw.blizzardvillaclues.BlizzardVillaClues;
 import com.fxw.blizzardvillaclues.ModItems.CustomTooltipItems.CustomTooltipItems;
+import com.fxw.blizzardvillaclues.ModItems.MapItems.MapItem;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.core.registries.Registries;
@@ -125,6 +126,10 @@ public class ModItems {
     public static final Item CROTON = registerHelper("croton");
     public static final Item WOOD_CHIP = registerHelper("wood_chip");
     public static final Item BLOOD = registerHelper("blood");
+    public static final Item MAP = register("map",
+            settings -> new MapItem(
+                    settings),
+            new Item.Properties().stacksTo(1));
 
     public static Item register(String name, Function<Item.Properties, Item> itemFactory, Item.Properties settings) {
         ResourceKey<Item> itemKey = ResourceKey.create(Registries.ITEM, ResourceLocation.fromNamespaceAndPath(BlizzardVillaClues.MOD_ID, name));

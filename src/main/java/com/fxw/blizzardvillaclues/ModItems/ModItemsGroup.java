@@ -71,6 +71,7 @@ public class ModItemsGroup {
             itemGroup.accept(ModItems.CROTON);
             itemGroup.accept(ModItems.WOOD_CHIP);
             itemGroup.accept(ModItems.BLOOD);
+            itemGroup.accept(ModItems.MAP);
         });
     }
 }

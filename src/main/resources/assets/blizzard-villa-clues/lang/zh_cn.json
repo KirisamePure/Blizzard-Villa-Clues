@@ -146,5 +146,6 @@
   "itemTooltip2.blizzard-villa-clues.wood_chip" : "§c§l发现地点：§r§f吊桥附近",
   "item.blizzard-villa-clues.blood" : "一滩血迹",
   "itemTooltip1.blizzard-villa-clues.blood" : "一滩血迹，看上去有点暗淡了",
-  "itemTooltip2.blizzard-villa-clues.blood" : "§c§l发现地点：§r§f密道"
+  "itemTooltip2.blizzard-villa-clues.blood" : "§c§l发现地点：§r§f密道",
+  "item.blizzard-villa-clues.map" : "山庄地图"
 }
