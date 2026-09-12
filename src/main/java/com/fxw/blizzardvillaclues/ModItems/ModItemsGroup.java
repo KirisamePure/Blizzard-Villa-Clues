@@ -72,6 +72,9 @@ public class ModItemsGroup {
             itemGroup.accept(ModItems.WOOD_CHIP);
             itemGroup.accept(ModItems.BLOOD);
             itemGroup.accept(ModItems.MAP);
+            itemGroup.accept(ModItems.ROPE);
+            itemGroup.accept(ModItems.ROPE_BROKEN);
+            itemGroup.accept(ModItems.WINE);
         });
     }
 }

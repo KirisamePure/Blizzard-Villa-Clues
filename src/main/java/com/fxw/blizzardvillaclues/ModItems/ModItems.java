@@ -130,6 +130,10 @@ public class ModItems {
             settings -> new MapItem(
                     settings),
             new Item.Properties().stacksTo(1));
+    public static final Item ROPE = registerHelper("rope");
+    public static final Item ROPE_BROKEN = registerHelper("rope_broken");
+    public static final Item WINE = registerHelper("wine");
+
 
     public static Item register(String name, Function<Item.Properties, Item> itemFactory, Item.Properties settings) {
         ResourceKey<Item> itemKey = ResourceKey.create(Registries.ITEM, ResourceLocation.fromNamespaceAndPath(BlizzardVillaClues.MOD_ID, name));

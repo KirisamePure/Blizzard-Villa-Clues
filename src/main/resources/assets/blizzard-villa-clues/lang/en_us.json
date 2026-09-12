@@ -23,7 +23,7 @@
   "itemTooltip2.blizzard-villa-clues.will1" : "§c§l发现地点：§r§f霍华德的书房",
   "item.blizzard-villa-clues.rag" : "抹布",
   "itemTooltip1.blizzard-villa-clues.rag" : "一块抹布，上面检测出了麻醉药",
-  "itemTooltip2.blizzard-villa-clues.rag" : "§c§l发现地点：§r§f地下二层地牢",
+  "itemTooltip2.blizzard-villa-clues.rag" : "§c§l发现地点：§r§f温泉附近",
   "item.blizzard-villa-clues.drug_bottle" : "棕色药瓶",
   "itemTooltip1.blizzard-villa-clues.drug_bottle" : "一个棕色的玻璃瓶，里面有一些刺鼻的液体，经检测为麻醉药",
   "itemTooltip2.blizzard-villa-clues.drug_bottle" : "§c§l发现地点：§r§f温泉外更衣室附近",
@@ -147,5 +147,14 @@
   "item.blizzard-villa-clues.blood" : "一滩血迹",
   "itemTooltip1.blizzard-villa-clues.blood" : "一滩血迹，看上去有点暗淡了",
   "itemTooltip2.blizzard-villa-clues.blood" : "§c§l发现地点：§r§f密道",
-  "item.blizzard-villa-clues.map" : "山庄地图"
+  "item.blizzard-villa-clues.map" : "山庄地图",
+  "item.blizzard-villa-clues.rope" : "绳子",
+  "itemTooltip1.blizzard-villa-clues.rope" : "一根绳子，上面有个圈，另一端有断开的痕迹",
+  "itemTooltip2.blizzard-villa-clues.rope" : "§c§l发现地点：§r§f地下二层地牢",
+  "item.blizzard-villa-clues.rope_broken" : "一截绳子",
+  "itemTooltip1.blizzard-villa-clues.rope_broken" : "一截绳子，一段有断开的痕迹",
+  "itemTooltip2.blizzard-villa-clues.rope_broken" : "§c§l发现地点：§r§f密道",
+  "item.blizzard-villa-clues.wine" : "红酒",
+  "itemTooltip1.blizzard-villa-clues.wine" : "几瓶红酒，价值不菲",
+  "itemTooltip2.blizzard-villa-clues.wine" : "§c§l发现地点：§r§f酒窖"
 }
