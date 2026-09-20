@@ -133,6 +133,11 @@ public class ModItems {
     public static final Item ROPE = registerHelper("rope");
     public static final Item ROPE_BROKEN = registerHelper("rope_broken");
     public static final Item WINE = registerHelper("wine");
+    public static final Item DRUG_X_OLD = registerHelper("drug_x_old");
+    public static final Item DRUG_X_DROP = registerHelper("drug_x_drop");
+    public static final Item BLOWGUN = registerHelper("blowgun");
+    public static final Item POISONED_NEEDLE = registerHelper("poisoned_needle");
+    public static final Item NOTE3 = registerHelper("note3");
 
 
     public static Item register(String name, Function<Item.Properties, Item> itemFactory, Item.Properties settings) {

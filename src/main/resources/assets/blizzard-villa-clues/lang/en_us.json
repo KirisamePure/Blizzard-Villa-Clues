@@ -156,5 +156,20 @@
   "itemTooltip2.blizzard-villa-clues.rope_broken" : "§c§l发现地点：§r§f密道",
   "item.blizzard-villa-clues.wine" : "红酒",
   "itemTooltip1.blizzard-villa-clues.wine" : "几瓶红酒，价值不菲",
-  "itemTooltip2.blizzard-villa-clues.wine" : "§c§l发现地点：§r§f酒窖"
+  "itemTooltip2.blizzard-villa-clues.wine" : "§c§l发现地点：§r§f酒窖",
+  "item.blizzard-villa-clues.drug_x_old" : "毒素X(三十六年前)",
+  "itemTooltip1.blizzard-villa-clues.drug_x_old" : "毒素X，浓度很高",
+  "itemTooltip2.blizzard-villa-clues.drug_x_old" : "§c§l发现地点：§r§f弗兰克房间(三十六年前)",
+  "item.blizzard-villa-clues.drug_x_drop" : "墨绿色液体(三十六年前)",
+  "itemTooltip1.blizzard-villa-clues.drug_x_drop" : "一小滩墨绿色液体",
+  "itemTooltip2.blizzard-villa-clues.drug_x_drop" : "§c§l发现地点：§r§f密道(三十六年前)",
+  "item.blizzard-villa-clues.blowgun" : "吹箭筒(三十六年前)",
+  "itemTooltip1.blizzard-villa-clues.blowgun" : "一个吹箭筒，可以发射小型钢针",
+  "itemTooltip2.blizzard-villa-clues.blowgun" : "§c§l发现地点：§r§f弗兰克房间(三十六年前)",
+  "item.blizzard-villa-clues.poisoned_needle" : "钢针(三十六年前)",
+  "itemTooltip1.blizzard-villa-clues.poisoned_needle" : "一个钢针，尖端涂有墨绿色液体",
+  "itemTooltip2.blizzard-villa-clues.poisoned_needle" : "§c§l发现地点：§r§f餐厅(三十六年前)",
+  "item.blizzard-villa-clues.note3" : "便条(三十六年前)",
+  "itemTooltip1.blizzard-villa-clues.note3" : "一张便条，上面是打印体",
+  "itemTooltip2.blizzard-villa-clues.note3" : "§c§l发现地点：§r§f霍华德办公室(三十六年前)"
 }

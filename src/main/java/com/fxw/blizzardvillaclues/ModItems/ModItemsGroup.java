@@ -75,6 +75,11 @@ public class ModItemsGroup {
             itemGroup.accept(ModItems.ROPE);
             itemGroup.accept(ModItems.ROPE_BROKEN);
             itemGroup.accept(ModItems.WINE);
+            itemGroup.accept(ModItems.DRUG_X_OLD);
+            itemGroup.accept(ModItems.DRUG_X_DROP);
+            itemGroup.accept(ModItems.BLOWGUN);
+            itemGroup.accept(ModItems.POISONED_NEEDLE);
+            itemGroup.accept(ModItems.NOTE3);
         });
     }
 }
