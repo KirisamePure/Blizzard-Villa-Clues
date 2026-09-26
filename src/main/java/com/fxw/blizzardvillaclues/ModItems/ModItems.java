@@ -138,6 +138,7 @@ public class ModItems {
     public static final Item BLOWGUN = registerHelper("blowgun");
     public static final Item POISONED_NEEDLE = registerHelper("poisoned_needle");
     public static final Item NOTE3 = registerHelper("note3");
+    public static final Item ICE_SHARD = registerHelper("ice_shard");
 
 
     public static Item register(String name, Function<Item.Properties, Item> itemFactory, Item.Properties settings) {

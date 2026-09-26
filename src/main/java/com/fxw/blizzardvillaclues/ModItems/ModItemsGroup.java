@@ -80,6 +80,7 @@ public class ModItemsGroup {
             itemGroup.accept(ModItems.BLOWGUN);
             itemGroup.accept(ModItems.POISONED_NEEDLE);
             itemGroup.accept(ModItems.NOTE3);
+            itemGroup.accept(ModItems.ICE_SHARD);
         });
     }
 }

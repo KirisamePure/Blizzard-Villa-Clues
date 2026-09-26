@@ -1,8 +1,8 @@
 {
   "itemGroup.blizzard-villa-clues" : "Blizzard Villa Clues",
-  "item.blizzard-villa-clues.blood_knife" : "水果刀",
-  "itemTooltip1.blizzard-villa-clues.blood_knife" : "一把厨房常见水果刀，上面沾有血迹",
-  "itemTooltip2.blizzard-villa-clues.blood_knife" : "§c§l发现地点：§r§f地下二层地牢",
+  "item.blizzard-villa-clues.blood_knife" : "切肉刀",
+  "itemTooltip1.blizzard-villa-clues.blood_knife" : "冷库备用的切肉刀，上面是干净的",
+  "itemTooltip2.blizzard-villa-clues.blood_knife" : "§c§l发现地点：§r§f员工宿舍厕所",
   "item.blizzard-villa-clues.bill" : "账单",
   "itemTooltip1.blizzard-villa-clues.bill" : "一份公司上半年流水账单",
   "itemTooltip2.blizzard-villa-clues.bill" : "§c§l发现地点：§r§f伊莎贝尔房间",
@@ -171,5 +171,8 @@
   "itemTooltip2.blizzard-villa-clues.poisoned_needle" : "§c§l发现地点：§r§f餐厅(三十六年前)",
   "item.blizzard-villa-clues.note3" : "便条(三十六年前)",
   "itemTooltip1.blizzard-villa-clues.note3" : "一张便条，上面是打印体",
-  "itemTooltip2.blizzard-villa-clues.note3" : "§c§l发现地点：§r§f霍华德办公室(三十六年前)"
+  "itemTooltip2.blizzard-villa-clues.note3" : "§c§l发现地点：§r§f霍华德办公室(三十六年前)",
+  "item.blizzard-villa-clues.ice_shard" : "碎冰",
+  "itemTooltip1.blizzard-villa-clues.ice_shard" : "一些碎掉的冰块",
+  "itemTooltip2.blizzard-villa-clues.ice_shard" : "§c§l发现地点：§r§f冷库"
 }
