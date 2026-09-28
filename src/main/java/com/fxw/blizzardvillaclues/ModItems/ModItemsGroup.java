@@ -81,6 +81,7 @@ public class ModItemsGroup {
             itemGroup.accept(ModItems.POISONED_NEEDLE);
             itemGroup.accept(ModItems.NOTE3);
             itemGroup.accept(ModItems.ICE_SHARD);
+            itemGroup.accept(ModItems.FINDING);
         });
     }
 }

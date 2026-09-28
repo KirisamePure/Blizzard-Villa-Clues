@@ -174,5 +174,8 @@
   "itemTooltip2.blizzard-villa-clues.note3" : "§c§l发现地点：§r§f霍华德办公室(三十六年前)",
   "item.blizzard-villa-clues.ice_shard" : "碎冰",
   "itemTooltip1.blizzard-villa-clues.ice_shard" : "一些碎掉的冰块",
-  "itemTooltip2.blizzard-villa-clues.ice_shard" : "§c§l发现地点：§r§f冷库"
+  "itemTooltip2.blizzard-villa-clues.ice_shard" : "§c§l发现地点：§r§f冷库",
+  "item.blizzard-villa-clues.finding" : "发现",
+  "itemTooltip1.blizzard-villa-clues.finding" : "密道本来有厚厚的灰尘，但是这里有一大片地没有灰尘",
+  "itemTooltip2.blizzard-villa-clues.finding" : "§c§l发现地点：§r§f密道"
 }

@@ -3,9 +3,9 @@
 	"id": "blizzard-villa-clues",
 	"version": "${version}",
 	"name": "Blizzard Villa Clues",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "adds clues to my larp map",
 	"authors": [
-		"Me!"
+		"fxw"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
